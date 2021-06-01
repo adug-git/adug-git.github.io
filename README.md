@@ -1,6 +1,4 @@
 # adug-git.github.io
-Testing GitHub.io pages
-
-Have a look at this address:
+Testing GitHub.io pages. Follow this link:
 
 https://adug-git.github.io/
